@@ -1,0 +1,11 @@
+This is the new Wireless Simulation Server (WSS) developed by Max Pfingsthorn.
+
+You need Trolltech's Qt Version 5 or later to compile in ubuntu.
+
+Simply run
+
+	qmake
+	
+to generate a Makefile or build project for your platform.
+
+
